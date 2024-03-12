@@ -1,8 +1,9 @@
+import HeaderHome from "./(pages)/home/HeaderHome";
 
 export default function Home() {
   return (
     <div>
-      hola
+      <HeaderHome />
     </div>
   );
 }
