@@ -5,7 +5,7 @@ import Link from "next/link";
 function ButtonsNet() {
   return (
     <div className="mt-5 space-x-7">
-      <Button asChild size="lg">
+      <Button asChild size="lg" className="bg-greenpf">
         <Link href="https://www.linkedin.com/in/gabriel-saldana00/">
           Ir a Linkedin
         </Link>

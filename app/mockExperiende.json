@@ -1,0 +1,74 @@
+[
+  {
+    "company": "Dinamo IT",
+    "position": "Frontend Developer",
+    "time": "Abril 2023 - Actualidad",
+    "description": [
+      "• Desarrollo de diversas funcionalidades y características utilizando tecnologías frontend como Next Js, CSS, JavaScript, Tailwind.",
+      "• Trabajé en la implementación de condiciones y lógica para garantizar el correcto funcionamiento de las funcionalidades.",
+      "• Trabajé en estrecha colaboración con el equipo de desarrollo, diseñadores y otros miembros del proyecto para alcanzar los objetivos establecidos.",
+      "• Asignar tareas y responsabilidades a los miembros del equipo."
+    ],
+    "skills": [
+      "Next Js",
+      "React Js",
+      "JavaScript",
+      "Tailwind",
+      "Wordpress"
+    ],
+    "image": ""
+  },
+  {
+    "company": "RT Estudio ARQ",
+    "position": "Fullstack Developer",
+    "time": "Noviembre 2023 - Actualidad",
+    "description": [
+      "• Actualmente me encuentro brindando mantenimiento en el sistema y en la base de datos, implementando mejoras y optimizaciones de carga.",      "• Desarrollo de website, tanto en base de datos, backend y frontend utilizando Next Js, JavaScript, Tailwind CSS, Material UI, Google Sheets.",
+      "• Utilizacion de server components con Next JS para consumir información desde base de datos.",
+      "• Utilización de contexto para compartir informacion entre componentes.",
+      "• Implementar renderizado condicional para galeria de imagenes y formulario vía email",
+      "• Desarrollar web para dispositivos mobiles con Tailwind.",
+      "• Desarrollar galeria de imagenes dependiendo la obra que se requiera ver."
+    ],
+    "skills": [
+      "Next Js",
+      "React Js",
+      "JavaScript",
+      "Tailwind",
+      "Material UI",
+      "Google Sheets"
+    ],
+    "image": ""
+  },
+  {
+    "company": "TSG System",
+    "position": "Frontend Developer",
+    "time": "Noviembre 2022 - Diciembre 2023",
+    "description": [
+      "• Diseñé y desarrollé un sitio web para la compra de muebles, utilizando metodologías ágiles para garantizar una entrega eficiente y satisfacer las necesidades del cliente. Contribuí en el desarrollo de una aplicación de venta de calzado, con el objetivo de proporcionar una experiencia de compra intuitiva y atractiva para los usuarios. Sirviendo, tambien para el control de stock, carga de productos, entre otras tareas."
+    ],
+    "skills": [
+      "Next Js",
+      "React Js",
+      "JavaScript",
+      "Material Tailwind",
+      "Tailwind"
+    ],
+    "image": ""
+  },
+  {
+    "company": "Tec. Informáticas Roots",
+    "position": "Frontend Developer",
+    "time": "Mayo 2022 - Julio 2022 (Contrato por 3 meses)",
+    "description": [
+      "• Responsable del desarrollo responsive de una aplicación web utilizando tecnologías como React Js, JavaScript, Material UI, Redux, Next JS. Tambíen, me encargué de desarrollo de paneles y componentes del sitio web para mejorar la usabilidad y experiencia del usuario. Aplicación de la metodología Scrum para garantizar la eficiencia del equipo y la calidad del producto final."
+    ],
+    "skills": [
+      "Next Js",
+      "TypeScript",
+      "React Js",
+      "Material UI"
+    ],
+    "image": ""
+  }
+]
