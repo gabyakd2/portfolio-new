@@ -1,11 +1,9 @@
-import ButtonsNet from "./(pages)/home/ButtonsNet";
-import HeaderHome from "./(pages)/home/HeaderHome";
+import HomeMain from "./(pages)/home/components/HomeMain";
 
 export default function Home() {
   return (
     <div>
-      <HeaderHome />
-      <ButtonsNet />
+      <HomeMain />
     </div>
   );
 }
