@@ -8,7 +8,7 @@ function HeaderHome() {
       <div>
         <h1 className="font-bold text-5xl">Gabriel Saldaña</h1>
         <p className="text-xl font-semibold">
-          <span className="text-df2ef7">Frontend</span> Developer
+          <span className="text-greenpf">Frontend</span> Developer
         </p>
         <p className="w-3/4 mt-8 text-gray-400">
           Desarrollador frontend con alrededor de dos años de experiencia en el
