@@ -2,7 +2,9 @@ import React from "react"
 
 function Technologies() {
   return (
-    <div>Technologies</div>
+    <div>
+     <p className="text-3xl text-white font-semibold">Technologies</p>
+    </div>
   )
 }
 
