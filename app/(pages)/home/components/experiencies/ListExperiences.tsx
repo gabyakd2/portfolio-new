@@ -1,5 +1,5 @@
 import React from "react";
-import experiences from "../../../mockExperiende.json"
+import experiences from "../../../../mockExperiende.json"
 import CardExperience from "./CardExperience";
 
 interface IExperiences {

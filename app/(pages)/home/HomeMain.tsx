@@ -1,8 +1,7 @@
 import React from "react";
-import HeaderHome from "./components/HeaderHome";
-import ButtonsNet from "./components/ButtonsNet";
-import ListExperiences from "./components/ListExperiences";
-import Technologies from "./components/Technologies";
+import { HeaderHome, ButtonsNet } from "./components/header";
+import {ListExperiences} from "./components/experiencies";
+import {Technologies} from "./components/technologies";
 
 function HomeMain() {
   return (
