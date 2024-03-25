@@ -11,6 +11,7 @@ function HomeMain() {
       <ListExperiences />
       <div className="border mt-20 mb-10"></div>
       <Technologies />
+      <div className="border mt-20 mb-10"></div>
     </div>
   );
 }
