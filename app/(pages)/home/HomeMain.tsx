@@ -2,6 +2,7 @@ import React from "react";
 import { HeaderHome, ButtonsNet } from "./components/header";
 import {ListExperiences} from "./components/experiencies";
 import {Technologies} from "./components/technologies";
+import { Contact } from "./components/contact";
 
 function HomeMain() {
   return (
@@ -12,6 +13,7 @@ function HomeMain() {
       <div className="border mt-20 mb-10"></div>
       <Technologies />
       <div className="border mt-20 mb-10"></div>
+      <Contact />
     </div>
   );
 }

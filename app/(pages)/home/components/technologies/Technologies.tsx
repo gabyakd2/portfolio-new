@@ -13,7 +13,7 @@ import techs from "./techs.json"
 function Technologies() {
   return (
     <div className="font-semibold">
-      <p className="text-3xl text-white">Tecnologías</p>
+      <p className="text-3xl text-white">Tecnologías 💻</p>
       <div className="grid md:grid-cols-4 grid-cols-1 gap-5 mt-10 text-greenpf text-xl">
         <div className="flex flex-col items-center">
           <Image
