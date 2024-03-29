@@ -21,7 +21,7 @@ function Contact() {
           correo
         </Link>
       </p>
-      <div className="">
+      <div>
         <p>
           Para{" "}
           <Link
