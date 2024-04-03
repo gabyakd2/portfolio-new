@@ -4,22 +4,25 @@
       "name": "RT Estudio Arq.",
       "description": "Proyecto realizado a estudio de arquitectura. Cuenta con distintas páginas donde se puede ver información del estudio, carruseles de imagenes, formulario de contacto, distintos botones con funcionalidades, galeria de imagenes exponiendo proyectos del estudio, etc.",
       "technologies": ["Next Js", "JavaScript", "Tailwind", "Material Tailwind", "Swiper", "Server components", "AOS"],
-      "repository": ""
+      "repository": "https://github.com/gabyakd2/portfolio-new"
     },
     {
-      "name": "RT Estudio Arq.",
-      "description": "Proyecto realizado a estudio de arquitectura. Cuenta con distintas páginas donde se puede ver información del estudio, carruseles de imagenes, formulario de contacto, distintos botones con funcionalidades, galeria de imagenes exponiendo proyectos del estudio, etc.",
-      "technologies": ["Next Js", "JavaScript", "Tailwind", "Material Tailwind", "Swiper", "Server components", "AOS"]
+      "name": "Barra de busqueda",
+      "description": "Consiste en una barra de busqueda la cual solicita informacion de la API de mercado libre conde se pueden hacer busquedas y se puede acceder a rutar dinamicas dependiendo del producto.",
+      "technologies": ["Next Js", "TypeScript", "Tailwind", "Material Tailwind", "React Query"],
+      "repository": "https://github.com/gabyakd2/chall-meli"
     },
     {
-      "name": "RT Estudio Arq.",
-      "description": "Proyecto realizado a estudio de arquitectura. Cuenta con distintas páginas donde se puede ver información del estudio, carruseles de imagenes, formulario de contacto, distintos botones con funcionalidades, galeria de imagenes exponiendo proyectos del estudio, etc.",
-      "technologies": ["Next Js", "JavaScript", "Tailwind", "Material Tailwind", "Swiper", "Server components", "AOS"]
+      "name": "Aplicación de vehículos",
+      "description": "Aplicación donde se puede ver una lista de vehículos, filtrarlos y ordenarlos. También se puede ver informacion detallada de cada uno usando rutas dinamicas.",
+      "technologies": ["Next Js", "TypeScript", "Tailwind", "Material Tailwind", "React Query"],
+      "repository": "https://github.com/gabyakd2/app-vehicles"
     },
     {
-      "name": "RT Estudio Arq.",
-      "description": "Proyecto realizado a estudio de arquitectura. Cuenta con distintas páginas donde se puede ver información del estudio, carruseles de imagenes, formulario de contacto, distintos botones con funcionalidades, galeria de imagenes exponiendo proyectos del estudio, etc.",
-      "technologies": ["Next Js", "JavaScript", "Tailwind", "Material Tailwind", "Swiper", "Server components", "AOS"]
+      "name": "Shopping Cart",
+      "description": "Aplicación de carrito de compras donde se puede agregar productos al mismo, eliminarlos, aumentar cantidad.",
+      "technologies": ["React Js", "JavaScript", "Bootstrap", "React Bootstrap", "Sweet alert", "Vite"],
+      "repository": "https://github.com/gabyakd2/To-Do-List"
     }
   ]
 }
