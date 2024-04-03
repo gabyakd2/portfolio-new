@@ -1,10 +1,12 @@
-import React from 'react'
-import CardProject from './components/CardProject'
+import React from "react";
+import CardProject from "./components/CardProject";
 
 function ProjectPage() {
   return (
-    <div><CardProject /> </div>
-  )
+    <div>
+      <CardProject />{" "}
+    </div>
+  );
 }
 
-export default ProjectPage
+export default ProjectPage;
