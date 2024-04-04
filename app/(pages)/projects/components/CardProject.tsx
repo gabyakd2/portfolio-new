@@ -1,5 +1,7 @@
-import Image from "next/image";
 import React from "react";
+import Image from "next/image";
+import Link from "next/link";
+import { Button } from "@/components/ui/button";
 
 interface IPropsCard {
   name: string;
@@ -27,6 +29,9 @@ function CardProject({
           ))}
         </p>
       </div>
+      <Button asChild variant="secondary" size="lg">
+        <Link href={repository}>Repositorio</Link>
+      </Button>
     </div>
   );
 }
