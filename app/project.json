@@ -1,5 +1,5 @@
 {
-  "projects": [
+  "projectsList": [
     {
       "name": "RT Estudio Arq.",
       "description": "Proyecto realizado a estudio de arquitectura. Cuenta con distintas páginas donde se puede ver información del estudio, carruseles de imagenes, formulario de contacto, distintos botones con funcionalidades, galeria de imagenes exponiendo proyectos del estudio, etc.",
