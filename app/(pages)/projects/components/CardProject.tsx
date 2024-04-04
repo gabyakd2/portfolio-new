@@ -1,17 +1,32 @@
 import Image from "next/image";
 import React from "react";
 
-function CardProject() {
+interface IPropsCard {
+  name: string;
+  description: string;
+  technologies: string[];
+  repository: string;
+}
+
+function CardProject({
+  name,
+  description,
+  technologies,
+  repository,
+}: IPropsCard) {
   return (
     <div className="text-white w-96">
       {/* <Image src="hola" width={150} height={150} alt="Image Project" /> */}
-      <p className="text-2xl font-bold text-greenpf">Titulo proyecto</p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
-        repellendus sequi iste voluptates repudiandae exercitationem quibusdam
-        odit at sapiente? Aliquid fuga necessitatibus qui totam, vitae velit
-        maiores laudantium suscipit nostrum.
-      </p>
+      <p className="text-2xl font-bold text-greenpf">{name}</p>
+      <p>{description}</p>
+      <div className="my-5">
+        <p>
+          <span className="font-bold"> Tecnologías: </span>
+          {technologies.map((tech: string) => (
+            <>{tech}</>
+          ))}
+        </p>
+      </div>
     </div>
   );
 }

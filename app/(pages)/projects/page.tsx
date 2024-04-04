@@ -1,10 +1,10 @@
 import React from "react";
-import CardProject from "./components/CardProject";
+import ListCardProject from "./components/ListCardProject";
 
 function ProjectPage() {
   return (
     <div>
-      <CardProject />{" "}
+      <ListCardProject />{" "}
     </div>
   );
 }
