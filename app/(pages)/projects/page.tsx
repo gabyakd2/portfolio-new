@@ -4,7 +4,7 @@ import ListCardProject from "./components/ListCardProject";
 function ProjectPage() {
   return (
     <div>
-      <ListCardProject />{" "}
+      <ListCardProject />
     </div>
   );
 }
