@@ -3,6 +3,7 @@ export interface ProjectRoot {
 }
 
 export interface Project {
+  id: number
   name: string
   description: string
   technologies: string[]
