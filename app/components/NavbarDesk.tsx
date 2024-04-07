@@ -12,7 +12,7 @@ function NavbarDesk() {
       <div className="font-semibold space-x-8 flex text-white">
         <Link href="/" className={pathname === "/" ? "text-greenpf font-extrabold": "" }>Inicio</Link>
         <Link href="/projects" className={pathname === "/projects" ? "text-greenpf font-extrabold": ""}>Proyectos</Link>
-        <Link href="/about-me" className={pathname === "aboutme" ? "text-greenpf font-extrabold": "" }>Acerca de mí</Link>
+        <Link href="/aboutme" className={pathname === "aboutme" ? "text-greenpf font-extrabold": "" }>Acerca de mí</Link>
       </div>
       <div className="flex space-x-3 items-center">
         <FaMoon style={{ color: "white", fontSize: "1em" }} />

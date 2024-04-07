@@ -27,6 +27,13 @@
       "description": "Aplicación de carrito de compras donde se puede agregar productos al mismo, eliminarlos, aumentar cantidad.",
       "technologies": ["React Js, ", "JavaScript, ", "Bootstrap, ", "React Bootstrap, ", "Sweet alert, ", "Vite"],
       "repository": "https://github.com/gabyakd2/To-Do-List"
+    },
+    {
+      "id": 5,
+      "name": "PI-VR Argentina",
+      "description": "Aplicación de carrito de compras donde se puede agregar productos al mismo, eliminarlos, aumentar cantidad.",
+      "technologies": ["React Js, ", "JavaScript, ", "Vite, ", "Bootstrap, ", "React Bootstrap, ", "Sweet alert, ", "Vite"],
+      "repository": "https://github.com/gabyakd2/To-Do-List"
     }
   ]
 }
