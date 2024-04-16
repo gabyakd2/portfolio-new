@@ -10,6 +10,7 @@ function PersonalInf() {
         <p><span className="font-semibold"> Ubicación: </span>📌 Salta - Argentina</p>
         <p>💻🎯 En constante aprendizaje y desarrollo</p>
         <p>☕🧉 Café y mate</p>
+        <p>🌄 Trekking</p>
       </div>
     </div>
   )
