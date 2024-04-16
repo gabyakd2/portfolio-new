@@ -11,6 +11,7 @@ function PersonalInf() {
         <p>💻🎯 En constante aprendizaje y desarrollo</p>
         <p>☕🧉 Café y mate</p>
         <p>🌄 Trekking</p>
+        <p>🐱‍👓🐈🐱‍👤 Michula, Rubito y Kitty</p>
       </div>
     </div>
   )
