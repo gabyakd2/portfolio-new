@@ -1,11 +1,18 @@
 import React from "react";
 import PersonalInf from "./components/PersonalInf";
+import Image from "next/image";
+import imageme from "@/public/yo.png";
+import Education from "./components/Education";
 
 function AboutMePage() {
   return (
     <div>
-      <p className="font-bold text-5xl my-10 text-white">Acerca de mí</p>
+      <div className="flex justify-between mt-5">
+        <p className="font-bold text-5xl my-10 text-white">Acerca de mí</p>
+        <Image src={imageme} width={150} height={150} alt="yo" className="rounded-lg"/>
+      </div>
       <PersonalInf />
+      <Education />
     </div>
   );
 }
