@@ -17,7 +17,7 @@ function CardProject({
   repository,
 }: IPropsCard) {
   return (
-    <div className="text-white w-96 h-full flex flex-col justify-between">
+    <div className="text-white w-full h-full flex flex-col justify-between">
       {/* <Image src="hola" width={150} height={150} alt="Image Project" /> */}
         <p className="text-2xl font-bold text-greenpf">{name}</p>
       <div className="mt-5">
